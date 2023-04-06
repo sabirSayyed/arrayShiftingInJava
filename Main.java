@@ -1,5 +1,5 @@
 import java.util.*;
-
+//i forgot what it exactly does but it does shift the values in a array as per the input values 😂gi
 public class Main {
 
     private static int[] solveLeft(int n, int[] array, int p, int[] result, int temp) {
